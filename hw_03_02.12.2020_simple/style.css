@@ -1,7 +1,7 @@
 body {
     background-color: rgb(246, 248, 237);
     max-width: 760; margin: 0 auto;
-    border: solid black;
+    
 }
 .block{
     width:760; 
@@ -23,18 +23,23 @@ body {
     margin-right: 10px;
 }
 p{
-    width: 760;
-    text-align: justify;  
+    width: 100%;
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;  
 }
 .block1{
+    text-align: center;
     width:760;
       
 }
 .container{
+    width: 0 auto;
     display: flex;
-   
-    
+    margin-left: 30%;
+    margin-right: 20%;
 }
+
 .img{
     border: dashed;
     width:73px; 
