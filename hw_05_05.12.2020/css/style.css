@@ -1,0 +1,40 @@
+body{
+    background-color: #121116;
+}
+.logo{
+    margin-top: 120px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.socials{
+    text-align: center;
+    margin-bottom: 88px;
+}
+h1{
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.separator{
+    width: 230px;
+    height: 1px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+.socials .links{
+    margin-top: 20px;
+}
+.socials .links a{
+    margin: 0 17px;
+}
+footer{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    text-align: center;
+}
+footer span{
+    color: #19c8fa;
+}
