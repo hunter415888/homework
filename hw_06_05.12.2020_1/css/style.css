@@ -1,0 +1,79 @@
+body {
+    line-height: 24px;
+    font-size: 14px;
+}
+h1 {
+    font-size: 35px;
+    line-height: 24px;
+    text-decoration: underline;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 85px;
+}
+h1, h2 {
+    color: #ffae00;
+}
+button {
+    background-color: #ffae00;
+    color: #fff;
+    text-transform: uppercase;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+main {
+    width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+section {
+    width: calc(50% - 10px);
+    display: inline-block;
+    height: 400px;
+}
+.skill-count .line, 
+.skill-count .number {
+    display: inline-block;
+}
+.skill-count .line {
+    background-color: #ffae00;
+    height: 5px;
+    vertical-align: bottom;
+}
+.skill-count .number {
+    width: 40px;
+    background-color: #ffae00;
+    color: #fff;
+    text-align: center;
+    margin-left: -5px;
+   }
+.line.ps{
+    width: calc(90% - 40px);
+}
+.line.il {
+    width: calc(85% - 40px);
+}
+.line.hc {
+    width: calc(89% - 40px);
+}
+.line.wd {
+    width: calc(87% - 40px);
+}
+.line.ui-ux {
+    width: calc(95% - 40px);
+}
+
+
+
+
+
+
+
+footer {
+    width: 1140px;
+    margin: 0 auto;
+    background-color: black;
+    height: 450px;
+}
