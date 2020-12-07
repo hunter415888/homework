@@ -65,15 +65,24 @@ section {
     width: calc(95% - 40px);
 }
 
-
-
-
-
-
-
 footer {
     width: 1140px;
     margin: 0 auto;
     background-color: black;
     height: 450px;
+    margin-bottom: 20px;
+}
+.sector {
+    display: inline-block;
+    width: 33%;
+}
+.sector, img {
+    text-align: center;
+    margin-top: 55px;
+}
+.text {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
