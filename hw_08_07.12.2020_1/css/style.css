@@ -1,0 +1,25 @@
+
+body {
+    width: 1140px;
+    margin: 0 auto;
+    background-color: #fff;
+    height: 450px;
+    margin-bottom: 20px;
+}
+.sector {
+    display: inline-block;
+    width: 33%;
+}
+.sector, img {
+    text-align: center;
+    margin-top: 55px;
+}
+.text {
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h3 {
+    text-transform: uppercase;
+}
