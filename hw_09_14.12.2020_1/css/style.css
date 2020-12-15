@@ -1,0 +1,17 @@
+main {
+    height: 940px;
+    width: 1400px;
+    margin: 0 auto;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+#T {
+    height: 50px;
+    font-size: 30px;
+    float: left;    
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: top;
+}
