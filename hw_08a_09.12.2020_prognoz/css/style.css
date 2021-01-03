@@ -27,7 +27,7 @@ body {
 .items {
 	  max-width: 960px;	 
 	  font-size: 0%;
-		border: 3px solid rgb(219, 50, 50);
+		border: 3px solid #fff);
 }
 
 .item {
@@ -40,19 +40,19 @@ body {
 .Lisbon {
 	height: 90px;
 	width: 49%;
-	background-color: rgb(174, 110, 235);
+	background-color:#6b90d4;
 }
 
 .Paris {
 	height: 90px;
 	width: 24%;
-	background-color: rgb(174, 110, 235);
+	background-color:#34d1d2;
 }
 
 .Belgrade {
 	height: 90px;
 	width: 24%;
-	background-color: rgb(174, 110, 235);
+	background-color:#bd6dd7;
 }
 
 .Moscow{
@@ -64,42 +64,43 @@ body {
 .TelAviv {
 	height: 90px;
 	width: 24%;
-	background-color: rgb(192, 68, 85);
+	background-color: #ff7640;
 }
 
 .Cair {
 	height: 90px;
 	width: 24%;
-	background-color: rgb(161, 161, 125);
+	background-color: #ffc900;
 }
 
 .NewYork {
 	height: 90px;
 	width: 24%;
-	background-color: rgb(174, 110, 235);
+	background-color:#60d6a7
+	;
 }
 
 .NewDelhi  {
 	height: 90px;
 	width: 32%;
-	background-color: rgb(174, 110, 235);
+	background-color:#5fbdce;
 }
 .SanFrancisco {
 	height: 90px;
 	width: 32%;
-	background-color: rgb(174, 110, 235);
+	background-color:#c561d3;
 }
 
 .Tokyo {
 	height: 90px;
 	width: 32%;
-	background-color: rgb(174, 110, 235);
+	background-color:#00a779;
 }
 
 .Sydney {
 	height: 90px;
 	width: 100%;
-	background-color: brown;
+	background-color: #7375d8;
 }
 
 .text {
