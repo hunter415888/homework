@@ -14,8 +14,6 @@ body {
   font-size: 40px; 
 }
 
-.section {    
-}
 
 .table {
 	margin: auto;
@@ -27,7 +25,7 @@ body {
 .items {
 	  max-width: 960px;	 
 	  font-size: 0%;
-		border: 3px solid #fff);
+		border: 3px solid #fff;
 }
 
 .item {
@@ -46,37 +44,37 @@ body {
 
 .Paris {
 	height: 90px;
-	width: 24%;
+	width: 24.1%;
 	background-color:#34d1d2;
 }
 
 .Belgrade {
 	height: 90px;
-	width: 24%;
+	width: 25%;
 	background-color:#bd6dd7;
 }
 
 .Moscow{
 	height: 90px;
-	width: 24%;
+	width: 24.4%;
 	background-color: rgb(192, 68, 85);
 }
 
 .TelAviv {
 	height: 90px;
-	width: 24%;
+	width: 24.4%;
 	background-color: #ff7640;
 }
 
 .Cair {
 	height: 90px;
-	width: 24%;
+	width: 24.3%;
 	background-color: #ffc900;
 }
 
 .NewYork {
 	height: 90px;
-	width: 24%;
+	width: 24.35%;
 	background-color:#60d6a7
 	;
 }
@@ -88,7 +86,7 @@ body {
 }
 .SanFrancisco {
 	height: 90px;
-	width: 32.12%;
+	width: 32.11%;
 	background-color:#c561d3;
 }
 
@@ -100,7 +98,7 @@ body {
 
 .Sydney {
 	height: 90px;
-	width: 100%;
+	width: 99.5%;
 	background-color: #7375d8;
 }
 
