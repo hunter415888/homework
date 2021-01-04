@@ -5,13 +5,13 @@ body {
 }
 
 .main {
-		border: 3px solid;
+		border: 3px solid #ffc900;
 }
 
 .title {
 	margin: 50px 0px 40px 95px;
 	color: #fff;
-   
+  font-size: 40px; 
 }
 
 .section {    
@@ -31,10 +31,11 @@ body {
 }
 
 .item {
-    font-size: 20px;
+    font-size: 30px;
     border: 3px solid #fff;
 		display: inline-block;
 		color: #fff;
+		padding-top: 25px;
 }
 
 .Lisbon {
@@ -82,18 +83,18 @@ body {
 
 .NewDelhi  {
 	height: 90px;
-	width: 32%;
+	width: 33%;
 	background-color:#5fbdce;
 }
 .SanFrancisco {
 	height: 90px;
-	width: 32%;
+	width: 32.12%;
 	background-color:#c561d3;
 }
 
 .Tokyo {
 	height: 90px;
-	width: 32%;
+	width: 33%;
 	background-color:#00a779;
 }
 
@@ -104,8 +105,10 @@ body {
 }
 
 .text {
-	color: #fff;
+  position: relative;
+  color: #fff;
 	margin-left: 95px;
-	font-size: 25px;
+  font-size: 25px;
 }	
+
 
