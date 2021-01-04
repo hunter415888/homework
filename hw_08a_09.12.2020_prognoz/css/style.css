@@ -22,6 +22,10 @@ body {
 	margin-bottom: 40px;
 }
 
+.table:hover{
+	opacity: 0.4;
+}
+
 .items {
 	  max-width: 960px;	 
 	  font-size: 0%;
@@ -40,6 +44,10 @@ body {
 	height: 90px;
 	width: 49%;
 	background-color:#6b90d4;
+}
+
+.Lisbon:not(:hover){
+	opacity: 10;
 }
 
 .Paris {
@@ -70,6 +78,10 @@ body {
 	height: 90px;
 	width: 24.3%;
 	background-color: #ffc900;
+}
+
+.Cair:hover{
+	opacity: 1;
 }
 
 .NewYork {
